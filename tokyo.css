@@ -1,0 +1,32 @@
+body {
+    background-color:pink;
+}
+h1 {
+    color:white;
+    background-image: url("images/banniere.jpg");
+    background-position:center;
+    text-align:center;
+    text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+    filter: grayscale(0.5);
+    padding-top:32px;
+    padding-bottom:32px;
+}
+img {
+    max-height: 265px;
+    max-width: 265px; 
+    padding-right: 16px;
+    padding-left: 16px;
+}
+h4 {
+    padding-left:32px;
+    color:red;
+}
+pre {
+    color:grey;
+}  
+#img2,#img3,#img5 {
+    float:right;
+}
+#img1,#img4 {
+    float:left;
+}

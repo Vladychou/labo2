@@ -1,0 +1,25 @@
+h1 {
+    background-color:grey;
+    text-align:center;
+    margin-top:30px;
+}
+img {
+    max-height:300px;
+    max-width:300px;
+    padding-left:10px;
+    padding-right:200px;
+    float:right;
+}
+body {
+    background-color:beige;
+}
+pre {
+    width: 70%;
+    border: 20px solid #444;
+    border-radius:15px;
+}
+#pre1 {
+    width: 30%;
+    border: 10px solid #444;
+    border-radius:15px;
+}

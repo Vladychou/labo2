@@ -18,7 +18,15 @@ pre {
     border: 20px solid #444;
     border-radius:15px;
 }
-p {
+#p1 {
+    width: 30%;
+    border: 10px solid #444;
+    border-radius:15px;
+}
+#a1 {
+    float:right;
+}
+#p2 {
     width: 30%;
     border: 10px solid #444;
     border-radius:15px;
